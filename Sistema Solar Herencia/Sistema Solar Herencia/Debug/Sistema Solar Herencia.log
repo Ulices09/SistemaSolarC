@@ -1,0 +1,32 @@
+﻿  ArrAsteroides.cpp
+  ArrExplosiones.cpp
+  Asteroide.cpp
+  Bala.cpp
+  EspacioExterior.cpp
+  Explosion.cpp
+  Galaxia.cpp
+  Luna.cpp
+  MyForm.cpp
+c:\users\win7\desktop\repo\nueva carpeta\sistema solar herencia\sistema solar herencia\Tierra.h(66): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\win7\desktop\repo\nueva carpeta\sistema solar herencia\sistema solar herencia\Tierra.h(68): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\win7\desktop\repo\nueva carpeta\sistema solar herencia\sistema solar herencia\Tierra.h(69): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\win7\desktop\repo\nueva carpeta\sistema solar herencia\sistema solar herencia\Tierra.h(96): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\win7\desktop\repo\nueva carpeta\sistema solar herencia\sistema solar herencia\Explosion.h(3): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\win7\desktop\repo\nueva carpeta\sistema solar herencia\sistema solar herencia\Explosion.h(39): warning C4996: 'SistemaSolarHerencia::strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'SistemaSolarHerencia::strcpy'
+c:\users\win7\desktop\repo\nueva carpeta\sistema solar herencia\sistema solar herencia\Explosion.h(55): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\win7\desktop\repo\nueva carpeta\sistema solar herencia\sistema solar herencia\Luna.h(49): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\win7\desktop\repo\nueva carpeta\sistema solar herencia\sistema solar herencia\Luna.h(51): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\win7\desktop\repo\nueva carpeta\sistema solar herencia\sistema solar herencia\Luna.h(52): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\win7\desktop\repo\nueva carpeta\sistema solar herencia\sistema solar herencia\Bala.h(44): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\win7\desktop\repo\nueva carpeta\sistema solar herencia\sistema solar herencia\Nave.h(56): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\win7\desktop\repo\nueva carpeta\sistema solar herencia\sistema solar herencia\MyForm.h(43): warning C4244: 'argument': conversion from 'SistemaSolarHerencia::time_t' to 'unsigned int', possible loss of data
+MyForm.cpp(6): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(Platform::Array<Platform::String^>^ argv)'
+  Nave.cpp
+  SistemaSolar.cpp
+  Sol.cpp
+  Tierra.cpp
+  Generating Code...
+c:\users\win7\desktop\repo\nueva carpeta\sistema solar herencia\sistema solar herencia\sistemasolar.h(133): warning C4715: 'SistemaSolarHerencia::SistemaSolar::Retornar_W_Sol': not all control paths return a value
+  Sistema Solar Herencia.vcxproj -> C:\Users\win7\Desktop\Repo\Nueva carpeta\Sistema Solar Herencia\Debug\Sistema Solar Herencia.exe
+  Sistema Solar Herencia.vcxproj -> C:\Users\win7\Desktop\Repo\Nueva carpeta\Sistema Solar Herencia\Debug\Sistema Solar Herencia.pdb (Full PDB)
